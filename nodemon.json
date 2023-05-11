@@ -1,5 +1,5 @@
 {
   "ignore": ["node_modules"],
-  "exec": "node board.js",
+  "exec": "npm run build",
   "ext": "ts"
 }
